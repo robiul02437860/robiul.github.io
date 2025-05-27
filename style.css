@@ -58,8 +58,14 @@ nav ul li a:hover {
   text-decoration: underline;
 }
 
-section {
+/* section {
   margin-top: 2rem;
+} */
+
+section {
+  margin-top: 3rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eee;
 }
 
 h2 {
