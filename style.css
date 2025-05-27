@@ -86,3 +86,8 @@ footer {
 a {
   color: #007acc;
 }
+#contact p {
+  text-align: center;
+  line-height: 1.8;
+}
+
